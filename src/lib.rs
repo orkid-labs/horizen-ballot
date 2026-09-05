@@ -1,6 +1,6 @@
 //! # horizen-ballot — Anonymous On-Chain Voting on Horizen Base L3
 //!
-//! Horizen adaptation of [zk-ballot](https://github.com/jjcav84/zk-ballot) —
+//! Horizen adaptation of [zk-ballot](https://github.com/orkid-labs/zk-ballot) —
 //! replaces on-chain verify costs with ZEN token staking and ZenKinetic
 //! privacy gate integration.
 //!

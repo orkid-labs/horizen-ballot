@@ -6,7 +6,7 @@ version = 4
 name = "horizen-ballot"
 version = "0.1.0"
 dependencies = [
- "negentropy 0.1.0 (git+https://github.com/jjcav84/negentropy.git?rev=ff60573d9baec1129b9d60734b77dc08b9dad093)",
+ "negentropy 0.1.0 (git+https://github.com/orkid-labs/negentropy.git?rev=ff60573d9baec1129b9d60734b77dc08b9dad093)",
  "serde",
  "serde_json",
  "zenkinetic",
@@ -27,7 +27,7 @@ checksum = "88904434abc2901f197fe8cc55f0445e7ded921dba5911dad2e2b39b48e663c4"
 [[package]]
 name = "negentropy"
 version = "0.1.0"
-source = "git+https://github.com/jjcav84/negentropy.git?rev=ff60573d9baec1129b9d60734b77dc08b9dad093#ff60573d9baec1129b9d60734b77dc08b9dad093"
+source = "git+https://github.com/orkid-labs/negentropy.git?rev=ff60573d9baec1129b9d60734b77dc08b9dad093#ff60573d9baec1129b9d60734b77dc08b9dad093"
 dependencies = [
  "serde",
  "serde_json",
@@ -36,7 +36,7 @@ dependencies = [
 [[package]]
 name = "negentropy"
 version = "0.1.0"
-source = "git+https://github.com/jjcav84/negentropy.git#ff60573d9baec1129b9d60734b77dc08b9dad093"
+source = "git+https://github.com/orkid-labs/negentropy.git#ff60573d9baec1129b9d60734b77dc08b9dad093"
 dependencies = [
  "serde",
  "serde_json",
@@ -123,9 +123,9 @@ checksum = "e6e4313cd5fcd3dad5cafa179702e2b244f760991f45397d14d4ebf38247da75"
 [[package]]
 name = "zenkinetic"
 version = "0.1.0"
-source = "git+https://github.com/jjcav84/zenkinetic.git?rev=c37d7eee133318c7cfcc279be52085b771bb39e5#c37d7eee133318c7cfcc279be52085b771bb39e5"
+source = "git+https://github.com/orkid-labs/zenkinetic.git?rev=c37d7eee133318c7cfcc279be52085b771bb39e5#c37d7eee133318c7cfcc279be52085b771bb39e5"
 dependencies = [
- "negentropy 0.1.0 (git+https://github.com/jjcav84/negentropy.git)",
+ "negentropy 0.1.0 (git+https://github.com/orkid-labs/negentropy.git)",
  "serde",
  "serde_json",
 ]
