@@ -127,3 +127,18 @@ systems.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Part of Orkid Labs
+
+**horizen-ballot** — Anonymous on-chain voting contracts for Horizen Base L3 — Halo2 ZK proofs, Solidity ballot system.
+
+- Install: `npm install @orkid-labs/horizen-ballot-contracts`
+- Package: https://www.npmjs.com/package/@orkid-labs/horizen-ballot-contracts
+- API docs: https://docs.orkidlabs.xyz/packages/horizen-ballot
+- Docs: https://docs.orkidlabs.xyz/packages/horizen-ballot
+
+Related Orkid projects: [zk-ballot](https://github.com/orkid-labs/zk-ballot), [zenkinetic](https://github.com/orkid-labs/zenkinetic), [horizen-attest](https://github.com/orkid-labs/horizen-attest)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)

@@ -1,0 +1,32 @@
+{
+  "name": "@orkid-labs/horizen-ballot-contracts",
+  "version": "0.1.0",
+  "description": "Anonymous on-chain voting contracts for Horizen Base L3 — Halo2 ZK proofs, Solidity ballot system",
+  "license": "MIT",
+  "author": "Orkid Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orkid-labs/horizen-ballot.git"
+  },
+  "keywords": [
+    "horizen",
+    "halo2",
+    "zero-knowledge",
+    "anonymous-voting",
+    "zk-voting",
+    "solidity",
+    "l3",
+    "orkid-labs"
+  ],
+  "files": [
+    "contracts",
+    "src",
+    "Cargo.toml",
+    "README.md",
+    "SKILL.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
